@@ -1,5 +1,5 @@
 var ars = rChoice([
-  'https://camerawebpage.com','https://autocareview.com','https://recipewiki.eu.org',
+ 'https://autocareview.com','https://recipewiki.eu.org',
   ]);
 
 function rChoice(arr) {
